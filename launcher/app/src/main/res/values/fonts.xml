@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cinematic typography: Clash Display Bold headings, Cabinet Grotesk navigation and labels (ITF Free Font License,
+     Fontshare), Unbounded Black for oversized feature headings (SIL OFL). -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ReferenceType">
+    <string name="font_body" translatable="false">@font/cabinet_grotesk_medium</string>
+    <string name="font_regular" translatable="false">@font/cabinet_grotesk_medium</string>
+    <string name="font_light" translatable="false">@font/clash_display_bold</string>
+    <string name="font_extralight" translatable="false">@font/clash_display_bold</string>
+    <string name="font_medium" translatable="false">@font/cabinet_grotesk_medium</string>
+    <string name="font_heading" translatable="false">@font/clash_display_bold</string>
+    <string name="font_feature" translatable="false">@font/unbounded_black</string>
+    <string name="font_section" translatable="false">@font/unbounded_black</string>
+    <string name="font_nav" translatable="false">@font/cabinet_grotesk_bold</string>
+    <string name="font_label" translatable="false">@font/cabinet_grotesk_medium</string>
+    <string name="font_secondary" translatable="false">@font/cabinet_grotesk_medium</string>
+</resources>

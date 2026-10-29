@@ -1,0 +1,10 @@
+# builds and local machine settings
+**/build/
+**/.gradle/
+**/local.properties
+tools/venv/
+release/
+# Fontshare fonts (ITF Free Font License): download them yourself, see README
+launcher/app/src/main/res/font/clash_display_bold.otf
+launcher/app/src/main/res/font/cabinet_grotesk_bold.otf
+launcher/app/src/main/res/font/cabinet_grotesk_medium.otf

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The mosque's MasjidBoardLive board id (the part after "?" in masjidboardlive.com/boards/?<id>). -->
+    <string name="board_id" translatable="false"></string>
+    <!-- Shown at the top if the board gives no name. -->
+    <string name="place" translatable="false">Makkah</string>
+    <color name="accent">#2BB673</color>
+</resources>

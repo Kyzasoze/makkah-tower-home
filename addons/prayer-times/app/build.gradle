@@ -1,0 +1,36 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.majnioui.tv.prayer'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId 'com.majnioui.tv.prayer'
+        minSdk 26
+        targetSdk 34
+        versionCode 2
+        versionName '2.0'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt')
+            // Sideloaded over ADB like the launcher: signed with the debug key.
+            signingConfig signingConfigs.debug
+        }
+    }
+
+    lint {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
