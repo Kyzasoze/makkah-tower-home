@@ -45,7 +45,7 @@ On the TV, open the **Google Play Store**, search for **Downloader** (by AFTVnew
   go back.
 
 ### 3. Open the download page
-Open **Downloader**, select the address box, type the code **`5060490`** and select **Go**.
+Open **Downloader**, select the address box, type the code **`8076512`** and select **Go**.
 The Makkah Tower Home download page opens inside Downloader.
 
 ### 4. Install the three apps — in this order
@@ -141,7 +141,7 @@ Uninstalling removes the downloaded wallpapers too, and leaves your other apps a
 - **Wrong prayer times.** Hold OK on the gear → **City, prayer times & teams** and choose another calculation, or
   your mosque's board.
 - **Downloader says the code doesn't work.** Type the full address instead:
-  `github.com/AssadHared/makkah-tower-home/releases/latest`
+  `github.com/Kyzasoze/makkah-tower-home/releases/latest`
 
 ---
 

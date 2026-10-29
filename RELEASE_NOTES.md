@@ -5,7 +5,7 @@
 ### New here? Install in 3 steps
 1. On the TV, install **Downloader** (by AFTVnews) from the Play Store, and allow it to install apps
    (Settings → Apps → Security & restrictions → Unknown sources → Downloader).
-2. In Downloader, type the code **`5060490`** and select **Go**. This page opens.
+2. In Downloader, type the code **`8076512`** and select **Go**. This page opens.
 3. Under **Assets** below, install the three apps **in this order**:
    1. **SalahTimes.apk** — prayer times, salah alerts, Qur'an player
    2. **Weather.apk** — weather
@@ -23,4 +23,4 @@ Google TV, Google TV Streamer, Nvidia Shield). **Not on:** Fire TV, Hisense VIDA
 **To go back to the original home screen:** Settings → Accessibility → Home button → Off (and uninstall the apps
 if you like).
 
-Full guide with screenshots and troubleshooting: see the [README](https://github.com/AssadHared/makkah-tower-home#readme).
+Full guide with screenshots and troubleshooting: see the [README](https://github.com/Kyzasoze/makkah-tower-home#readme).
